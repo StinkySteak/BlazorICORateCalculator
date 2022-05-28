@@ -1,0 +1,36 @@
+﻿@inherits LayoutComponentBase
+
+<MudDialogProvider/>
+<MudSnackbarProvider/>
+<MudThemeProvider Theme="MyCustomTheme" />
+
+<MudLayout>
+    <MudAppBar Elevation="1">
+        <MudText Typo="Typo.h5" Class="ml-3">ICO Rate Calculator</MudText>
+        <MudSpacer />
+        <MudLink Href="/calculator"><MudText Typo="Typo.h6" Class="ml-3">Calculator</MudText></MudLink>
+    </MudAppBar>
+    <MudMainContent>
+        @Body
+    </MudMainContent>
+</MudLayout>
+
+@code
+{
+MudTheme MyCustomTheme = new MudTheme()
+    {
+        Palette = new Palette()
+        {
+            Primary = Colors.Blue.Lighten1,
+            Secondary = Colors.Blue.Darken4,
+            AppbarBackground = Colors.Blue.Darken4,
+
+        },
+
+        LayoutProperties = new LayoutProperties()
+        {
+            DrawerWidthLeft = "260px",
+            DrawerWidthRight = "300px"
+        }
+    };
+}

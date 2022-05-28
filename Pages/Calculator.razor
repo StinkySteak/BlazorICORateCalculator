@@ -1,0 +1,280 @@
+﻿@page "/calculator"
+@inherits LayoutComponentBase
+@using System.ComponentModel.DataAnnotations
+@using System.Numerics;
+@using System.Text;
+
+<MudContainer Class="mud-theme-primary" MaxWidth=MaxWidth.ExtraExtraLarge>
+    <MudPaper Height=1000px Class="mud-theme-primary" Elevation="0" Style="padding-top:40px">
+        <MudGrid>
+            <MudItem xs=6>
+                @if (CurrentCalculatorType == CalculatorType.Ether)
+                {
+                    <EditForm Model="@EtherModel" OnValidSubmit="OnValidEther">
+                        <DataAnnotationsValidator />
+                        <MudCard>
+                            <MudCardContent>
+                                <MudGrid>
+                                    <MudItem xs=6>
+                                        <MudSelect @bind-Value=CurrentCalculatorType Label="Fund Type">
+                                            <MudSelectItem Value="@(CalculatorType.Ether)">Ether</MudSelectItem>
+                                        </MudSelect>
+                                    </MudItem>
+                                </MudGrid>
+                                <MudTextField Label="Token Decimal"
+                                          @bind-Value="EtherModel.TokenDecimal" For="@(() => EtherModel.TokenDecimal)" InputType=InputType.Number />
+                                <MudTextField Label="Token Price" Class="mt-3"
+                                          @bind-Value="EtherModel.TokenPrice" HelperText="Token Price in USD. Ex: 0.01" For="@(() => EtherModel.TokenPrice)" />
+                                <MudTextField Label="Ether Price" Class="mt-3"
+                                          @bind-Value="EtherModel.EtherPrice" HelperText="Ether Price in USD. Ex: 10.5" For="@(() => EtherModel.EtherPrice)" />
+                            </MudCardContent>
+                            <MudCardActions>
+                                @if (CurrentCalculatorResult == CalculatorResult.Success)
+                                {
+                                    <MudText Align=Align.Right Color=@Color.Success>Rate: @FinalResult</MudText>
+                                }
+                                else if (CurrentCalculatorResult == CalculatorResult.Failed)
+                                {
+                                    <MudText Align=Align.Right Color=@Color.Error>Token Already Added</MudText>
+                                }
+
+                                <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Calculate</MudButton>
+                            </MudCardActions>
+                        </MudCard>
+                    </EditForm>
+                }
+                else if (CurrentCalculatorType == CalculatorType.StableCoin)
+                {
+                    <EditForm Model="@StableCoinModel" OnValidSubmit="OnValidStableCoin">
+                        <DataAnnotationsValidator />
+                        <MudCard>
+                            <MudCardContent>
+                                <MudGrid>
+                                    <MudItem xs=6>
+                                        <MudSelect @bind-Value=CurrentCalculatorType Label="Fund Type">
+                                            <MudSelectItem Value="@(CalculatorType.Ether)">Ether</MudSelectItem>
+                                            <MudSelectItem Value="@(CalculatorType.StableCoin)">StableCoin</MudSelectItem>
+                                        </MudSelect>
+                                    </MudItem>
+                                </MudGrid>
+                                <MudTextField Label="Token Decimal"
+                                          @bind-Value="StableCoinModel.TokenDecimal" For="@(() => StableCoinModel.TokenDecimal)" InputType=InputType.Number />
+                                <MudTextField Label="Token Price" Class="mt-3"
+                                          @bind-Value="StableCoinModel.TokenPrice" HelperText="Token Price in USD" For="@(() => StableCoinModel.TokenPrice)" />
+                                <MudTextField Label="Stable Coin Decimal" Class="mt-3"
+                                          @bind-Value="StableCoinModel.StableCoinDecimal" For="@(() => StableCoinModel.StableCoinDecimal)" InputType=InputType.Number />
+                            </MudCardContent>
+                            <MudCardActions>
+                                @if (CurrentCalculatorResult == CalculatorResult.Success)
+                                {
+                                    <MudText Align=Align.Right Color=@Color.Success>Rate: @FinalResult</MudText>
+                                }
+                                else if (CurrentCalculatorResult == CalculatorResult.Failed)
+                                {
+                                    <MudText Align=Align.Right Color=@Color.Error>Token Already Added</MudText>
+                                }
+
+                                <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Calculate</MudButton>
+                            </MudCardActions>
+                        </MudCard>
+                    </EditForm>
+                }
+            </MudItem>
+            <MudItem xs=6>
+                <MudText>Helpful Notes:</MudText>
+
+                @foreach (string note in Notes)
+                {
+                    <MudText>@note</MudText>
+                }
+
+            </MudItem>
+            <MudItem xs=12>
+                <MudPaper Class="pa-8">
+                    <MudText Typo=Typo.h4>Info</MudText>
+                    <MudText>Initial Coin Offering (Crowdsale) Calculator made by SteakSoft for public use</MudText>
+                    <MudText>Formulas are based on</MudText><MudLink Target="_blank" Href="https://docs.openzeppelin.com/contracts/2.x/crowdsales#crowdsale-rate">OpenZeppelin</MudLink>
+
+                    <br />
+
+                    <MudText Class="mt-4" Typo=Typo.h5>IMPORTANT INFO: </MudText>
+
+                    <MudText>Token Price cannot be more than 2,000,000,000 USD OR the Result may return unexpected number</MudText>
+                    <MudText>Is there an Issue? Email us on stinkysteak@steaksoft.net</MudText>
+
+                    <MudLink Target="_blank" Href="https://steaksoft.net">SteakSoft Official Website</MudLink>
+                </MudPaper>
+            </MudItem>
+        </MudGrid>
+    </MudPaper>
+</MudContainer>
+
+@code
+{
+    public enum CalculatorType
+    {
+        Ether,
+        StableCoin
+    }
+
+    public enum CalculatorResult
+    {
+        None,
+        Success,
+        Failed
+    }
+
+    public string FinalResult { get; set; }
+
+    public List<string> Notes { get; set; } = new();
+
+    public CalculatorType CurrentCalculatorType { get; set; }
+
+    public CalculatorResult CurrentCalculatorResult { get; set; }
+
+    public class EtherBasedModel
+    {
+        [Required]
+        public int TokenDecimal { get; set; } = 18;
+
+        [Required]
+        public string? TokenPrice { get; set; }
+
+        [Required]
+        public double EtherPrice { get; set; }
+    }
+
+    public EtherBasedModel EtherModel { get; set; } = new EtherBasedModel();
+
+    public class StableCoinBasedModel
+    {
+        [Required]
+        public int TokenDecimal { get; set; } = 18;
+
+        [Required]
+        public string? TokenPrice { get; set; }
+
+        [Required]
+        public int StableCoinDecimal { get; set; } = 18;
+    }
+
+    public StableCoinBasedModel StableCoinModel { get; set; } = new StableCoinBasedModel();
+
+    private void OnValidEther(EditContext context)
+    {
+        CurrentCalculatorResult = CalculatorResult.Success;
+        CalculateBasedOnEther();
+        StateHasChanged();
+    }
+    private void OnValidStableCoin(EditContext context)
+    {
+        CurrentCalculatorResult = CalculatorResult.Success;
+        CalculateBasedOnStableCoin();
+        StateHasChanged();
+    }
+    void CalculateBasedOnEther()
+    {
+        int tokenPriceDecimalLength = 0;
+
+        var tokenPriceInString = EtherModel.TokenPrice;
+        var etherPrice = EtherModel.EtherPrice;
+        var tokenDecimal = EtherModel.TokenDecimal;
+
+        if (tokenPriceInString.Contains("."))
+            tokenPriceDecimalLength = tokenPriceInString.Substring(tokenPriceInString.IndexOf(".") + 1).Length;
+
+        Notes.Clear();
+        Notes.Add("Decimal Places Length: " + tokenPriceDecimalLength);
+
+        double tokenPrice = double.Parse(tokenPriceInString);
+
+        int EtherDecimal = 18;
+        BigInteger EtherOnWei = BigInteger.Pow(10, EtherDecimal);
+        BigInteger tokenPower = BigInteger.Pow(10, tokenDecimal);
+
+        int requiredReversePower = (int)Math.Pow(10, tokenPriceDecimalLength);
+        var rate = (etherPrice / tokenPrice);
+
+        BigInteger finalRate = new BigInteger(rate);
+
+        FinalResult = ReplaceCommaWithDot(rate.ToString());
+
+        double weiToTokenPrice = (double)finalRate / (double)tokenPower;
+        Notes.Add("1 wei will gives " + finalRate + " TOKENBits / " + weiToTokenPrice + " TOKEN");
+
+
+        var etherToTokenPrice = BigInteger.Multiply(finalRate, EtherOnWei);
+        var finalRateOnEther = etherToTokenPrice / EtherOnWei;
+        Notes.Add("1 Ether will gives " + etherToTokenPrice + " TOKENBits / " + finalRateOnEther + " TOKEN");
+
+        var usdPrice = 1 / tokenPrice;
+        usdPrice = usdPrice * requiredReversePower;
+        var usdPriceOnWei = usdPrice * (ulong)tokenPower;
+
+        string? message = "1 USD will gives " + usdPriceOnWei + " TOKENBits / " + usdPrice + " TOKEN";
+        Notes.Add(ReplaceCommaWithDot(message));
+    }
+    void CalculateBasedOnStableCoin()
+    {
+        int tokenPriceDecimalLength = 0;
+
+        var tokenPriceInString = StableCoinModel.TokenPrice;
+
+        if (tokenPriceInString.Contains("."))
+            tokenPriceDecimalLength = tokenPriceInString.Substring(tokenPriceInString.IndexOf(".") + 1).Length;
+
+        ulong reversePower = (ulong)Math.Pow(10, tokenPriceDecimalLength);
+
+        BigInteger tokenPower = BigInteger.Pow(10, StableCoinModel.TokenDecimal);
+        BigInteger stableCoinPower = BigInteger.Pow(10, StableCoinModel.StableCoinDecimal);
+
+        
+
+        double tokenPrice = double.Parse(tokenPriceInString);
+
+        // 1 TOKEN = RateRatio * 0.0000761 STABLE COIN
+        //            {13140}
+
+        var OneInBigInteger = BigInteger.Multiply(BigInteger.One, tokenPower); //must divide by tokenPower later {1}
+
+        BigInteger RateRatio = BigInteger.Divide(OneInBigInteger, (int)tokenPrice); // Boost Token Price from 0.000076 to 76 With Reverse POWER OF 6
+
+
+        var rate = BigInteger.Multiply(RateRatio, tokenPower);
+
+        var decimalRate = rate * reversePower / tokenPower;
+
+        BigInteger range = 0;
+
+        if (tokenPower > stableCoinPower)
+        {
+            range = BigInteger.Divide(tokenPower, stableCoinPower);
+
+            decimalRate = BigInteger.Multiply(decimalRate,range);
+        }
+        else if (tokenPower < stableCoinPower)
+        {
+            range = BigInteger.Divide(stableCoinPower, tokenPower);
+
+            decimalRate = BigInteger.Multiply(decimalRate,range);
+        }
+        else if (tokenPower == stableCoinPower)
+        {
+            
+        }
+
+        FinalResult = ReplaceCommaWithDot(decimalRate.ToString());
+
+        var usdPrice = 1 / tokenPrice;
+        usdPrice = usdPrice * reversePower;
+        var usdPriceOnBits = usdPrice * (ulong)tokenPower;
+
+        string? message = "1 USD will gives " + usdPriceOnBits + " TOKENBits / " + usdPrice + " TOKEN";
+        Notes.Clear();
+        Notes.Add(ReplaceCommaWithDot(message));
+    }
+    static string? ReplaceCommaWithDot(string input)
+    {
+        return input.Replace(',', '.');
+    }
+}
