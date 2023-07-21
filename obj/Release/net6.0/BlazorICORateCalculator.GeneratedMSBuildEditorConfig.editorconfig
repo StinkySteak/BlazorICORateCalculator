@@ -5,35 +5,33 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
-build_property.EnableSingleFileAnalyzer = 
-build_property.EnableTrimAnalyzer = true
-build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorICORateCalculator
 build_property.RootNamespace = BlazorICORateCalculator
-build_property.ProjectDir = D:\Documents\Visual Studio Projects\BlazorICORateCalculator\
+build_property.ProjectDir = C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\
 build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Documents\Visual Studio Projects\BlazorICORateCalculator
+build_property.MSBuildProjectDirectory = C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator
 build_property._RazorSourceGeneratorDebug = 
-build_property._RazorSourceGeneratorHeapDumps = 
 
-[d:/Documents/Visual Studio Projects/BlazorICORateCalculator/App.razor]
+[C:/Users/StinkySteak/Documents/dotNET/BlazorICORateCalculator/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Visual Studio Projects/BlazorICORateCalculator/Pages/Calculator.razor]
+[C:/Users/StinkySteak/Documents/dotNET/BlazorICORateCalculator/Pages/Calculator.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Visual Studio Projects/BlazorICORateCalculator/Pages/Index.razor]
+[C:/Users/StinkySteak/Documents/dotNET/BlazorICORateCalculator/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Visual Studio Projects/BlazorICORateCalculator/_Imports.razor]
+[C:/Users/StinkySteak/Documents/dotNET/BlazorICORateCalculator/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Documents/Visual Studio Projects/BlazorICORateCalculator/Shared/MainLayout.razor]
+[C:/Users/StinkySteak/Documents/dotNET/BlazorICORateCalculator/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jfe6xnt4th

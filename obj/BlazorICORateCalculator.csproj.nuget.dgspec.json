@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Visual Studio Projects\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj": {}
+    "C:\\Users\\StinkySteak\\Documents\\dotNET\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Visual Studio Projects\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj": {
+    "C:\\Users\\StinkySteak\\Documents\\dotNET\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Visual Studio Projects\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\StinkySteak\\Documents\\dotNET\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj",
         "projectName": "BlazorICORateCalculator",
-        "projectPath": "D:\\Documents\\Visual Studio Projects\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj",
+        "projectPath": "C:\\Users\\StinkySteak\\Documents\\dotNET\\BlazorICORateCalculator\\BlazorICORateCalculator.csproj",
         "packagesPath": "C:\\Users\\StinkySteak\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Visual Studio Projects\\BlazorICORateCalculator\\obj\\",
+        "outputPath": "C:\\Users\\StinkySteak\\Documents\\dotNET\\BlazorICORateCalculator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\StinkySteak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,14 +60,15 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.0-preview.7.21377.19, 6.0.0-preview.7.21377.19]"
+              "version": "[6.0.13, 6.0.13]"
             }
           ],
           "frameworkReferences": {
@@ -80,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

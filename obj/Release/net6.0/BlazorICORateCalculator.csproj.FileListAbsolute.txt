@@ -1,821 +1,824 @@
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\blazor.boot.json
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\blazor.webassembly.js
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.pdb
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.timezones.blat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.wasm
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_CJK.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_EFIGS.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_no_CJK.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\mscorlib.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\MudBlazor.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\netstandard.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.AppContext.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Buffers.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Configuration.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Console.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Core.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.Common.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Memory.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Mail.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Ping.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Quic.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Requests.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Security.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Sockets.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebClient.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ObjectModel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Uri.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Reader.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Writer.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Claims.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.SecureString.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceProcess.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Channels.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Thread.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Timer.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.Local.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ValueTuple.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Windows.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Linq.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\WindowsBase.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.6.0.0-preview.7.21377.19.js
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Windows.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\MudBlazor.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Buffers.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\mscorlib.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.6.0.0-preview.7.21377.19.js.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.pdb.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Memory.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\netstandard.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Core.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\WindowsBase.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.wasm.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.AppContext.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Configuration.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt.dat.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Console.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\firebase.json
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.staticwebassets.json
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.staticwebassets.runtime.json
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.StaticWebAssets.xml
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.pdb
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Authorization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.Forms.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Metadata.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Options.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.JSInterop.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.JSInterop.WebAssembly.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\MudBlazor.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Pipelines.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.CSharp.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.VisualBasic.Core.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.VisualBasic.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Win32.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Win32.Registry.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.AppContext.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Buffers.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.Concurrent.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.Immutable.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.NonGeneric.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.Specialized.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.Annotations.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.DataAnnotations.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.EventBasedAsync.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.TypeConverter.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Configuration.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Console.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Core.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Data.Common.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Data.DataSetExtensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Data.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Contracts.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Debug.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.FileVersionInfo.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Process.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.StackTrace.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.TextWriterTraceListener.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Tools.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.TraceSource.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Tracing.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Drawing.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Drawing.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Dynamic.Runtime.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Formats.Asn1.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Globalization.Calendars.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Globalization.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Globalization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.Brotli.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.FileSystem.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.ZipFile.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.AccessControl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.DriveInfo.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.Watcher.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.IsolatedStorage.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.MemoryMappedFiles.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Pipes.AccessControl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Pipes.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.UnmanagedMemoryStream.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.IO.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.Expressions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.Parallel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.Queryable.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Memory.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Http.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Http.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.HttpListener.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Mail.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.NameResolution.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.NetworkInformation.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Ping.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Quic.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Requests.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Security.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.ServicePoint.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Sockets.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebClient.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebHeaderCollection.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebProxy.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebSockets.Client.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebSockets.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Net.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Numerics.Vectors.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Numerics.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ObjectModel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Private.DataContractSerialization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Uri.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Xml.Linq.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Xml.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.DispatchProxy.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Emit.ILGeneration.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Emit.Lightweight.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Emit.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Metadata.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.TypeExtensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Resources.Reader.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Resources.ResourceManager.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Resources.Writer.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.CompilerServices.Unsafe.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.CompilerServices.VisualC.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Handles.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.InteropServices.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Intrinsics.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Loader.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Numerics.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Formatters.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Xml.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.AccessControl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Claims.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Algorithms.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Cng.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Csp.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Encoding.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.OpenSsl.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Primitives.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.X509Certificates.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Principal.Windows.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Principal.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.SecureString.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Security.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ServiceModel.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ServiceProcess.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encoding.CodePages.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encoding.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encoding.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encodings.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Json.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Text.RegularExpressions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Channels.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Overlapped.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.Dataflow.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.Extensions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.Parallel.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Thread.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.ThreadPool.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Timer.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Transactions.Local.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Transactions.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.ValueTuple.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Web.HttpUtility.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Web.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Windows.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.Linq.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.ReaderWriter.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.Serialization.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XDocument.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XPath.XDocument.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XPath.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XmlDocument.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XmlSerializer.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\WindowsBase.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\mscorlib.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\netstandard.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\System.Private.CoreLib.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\dotnet.timezones.blat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\dotnet.wasm
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\icudt.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\icudt_CJK.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\icudt_EFIGS.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\bin\Release\net6.0\icudt_no_CJK.dat
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.csproj.AssemblyReference.cache
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.GeneratedMSBuildEditorConfig.editorconfig
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.AssemblyInfoInputs.cache
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.AssemblyInfo.cs
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.ImplicitNamespaceImports.cs
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.csproj.CoreCompileInputs.cache
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.MvcApplicationPartsAssemblyInfo.cache
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\CyM0s2t6.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\CvdoMi+O.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\7qgBJgm+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\a5f59dGq.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\gsgojUpX.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\dArDCuva.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DIf9kotp.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cMoOln3m.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\NmdjPV7L.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2diAw66n.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\TPmUymGX.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bpjpp7L+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\0EgZ0ydx.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kV0adWgE.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kQEBMd6s.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Ul+gxDcT.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\3A0qQ8HL.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kuKYxbkW.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\+WF+fGHc.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\6upIK8dT.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\MO0BA0X3.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\wRdu8qpn.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\SYoss5M2.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\75MzAooy.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\5OcCCYt+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8G++tcDW.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\VoE2dVsP.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Sw29ldi7.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\NOgpS0xC.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\IuKQ0h+1.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\qSjrhRmj.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\B7XnqYmX.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\RkHnLRgf.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Fb+gL4iI.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\rrxiJ1zs.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\K7R8wOVq.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ZM34g+LG.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\NHmJtSWD.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\fBsEQc73.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\VQPCvHJM.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\JKAiUI14.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bF0BkbWK.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\w3WPGJU6.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\qtjS3P+g.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\XgHmKX+P.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\KeUUz1t+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\lRQC3zUv.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\OgI6oo+v.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\76hLtzO0.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\53+j+Kxe.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\lIrsWp4O.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\oG+FDpAT.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\uYebNcXf.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\xRjjx9CR.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\OJy+aTf2.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\+Ep7fyhs.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\78y1kRhz.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ryHiuPjD.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\G0iru7Ic.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kc6eE38X.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\UAp3+AWO.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\GUwGe6ay.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\R9CQwgWc.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\BXZIn5+w.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bqEVyPUT.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\CDrfBJVc.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Ejo8fQQt.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\vA+4JYnJ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Dz2Pbhcv.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\eaaDj5X4.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\V+UlTKHr.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DrxIW5JH.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Y+uhQ8D3.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ICILw+X+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2wQnepGs.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\LpZAXhz7.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8EpXNhJZ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Hn06OGiX.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ocU57KlS.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\pKfK7W8C.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\rlYZA22k.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\BJMPSp+o.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\QmAlVMNO.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\E55a6Zxn.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\M4F3VRRW.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Ft+VWW02.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\X1hTbxVq.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\yUBOYvQO.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\whhFOBdv.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\yxC+NR7s.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\t6x8T4D6.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\dmARW7cL.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bRb+HkTg.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\+qPjOMyf.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\9C53uOeS.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\pcArcaSc.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\WsEiConw.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\vtU8Hbzk.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\7KaSte1w.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\R7aTkoHR.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cyOGHqi0.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\p0V++7i7.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\KXJfcn14.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\RkuoS9rI.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\4KGVssx8.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bDsyPx6O.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\SCcTpF9Y.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\jrar1veu.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\GSrzSH+Q.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2KbI+CLk.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\iszKqBBR.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\m97GA4kj.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Cx9du0Pi.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\jex7cnyZ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\64IZxbKk.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\x7r1LN7w.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ytqliVEN.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\3EWhqERe.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\3TKvw8yf.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\eYuHQpGM.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8vWM9w+l.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\gbNpZ+DY.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\6L1vn7k+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\xMFsChtR.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\UY4fL5sO.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\9A+KVe+b.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\4jh5X8BZ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kCi4HJZB.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\l0RyqM6M.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\5URw2skR.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ktCfGHnk.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\5Iem9KFN.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\rSaIo6iL.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Tcy9kTh4.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\eCoEgnm8.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\fsi0RdcQ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\EvQM6RQl.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\7rYgP+29.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\y1KxCe9D.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\t8SUSXTG.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\IhOm0y9b.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\YTdJREYA.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\uLvjXQLM.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\toZEV01y.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\wstOWIGu.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\yEfjjoYZ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\6GN1eJ9U.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\tNoIOM4J.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\3m9ofRh+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\0iQlMDl+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\nt3MbNaD.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\qMv2DowJ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ElrpxSx3.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\14KbaqA1.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ZSzGoWGu.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\d4sdTxLo.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\tbrYAv03.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ZxqncEgG.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ACAq+E2g.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\eSE+YebZ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cBgr8YA5.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ynDoIeKL.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ezFM6Nez.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2Ne6IfeA.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\VIxiumw3.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\r+DelFBO.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\PdNnm4uL.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Ue8E+IJB.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Ai0agGVV.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\9IIaoRzX.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\QwBXdN1i.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\JERUko5C.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DK55h7lk.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kiq4bW1T.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\wehSLj+p.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Ugg7NlsM.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\1tu8VBzC.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\87PfYe9+.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\oIMleZ4I.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\O7jxTbFw.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\f6AH+h7m.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ZxaDWaKM.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\seVBH2+w.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\LwwVm3DJ.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\m9KF3PHt.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\0ISX1mJb.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\mpF60eZ4.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ON+IPgBs.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cdai1boF.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\i5mD25bF.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\YiNGnL9D.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\EUexpx6R.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\QQL0C0gk.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\rKR60dlc.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\KLTnrV8V.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DPhoCU0A.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\jiksGaZB.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ArybSo9Z.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\D4j2k7vF.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\build-gz\AzUN21IT.gz
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\blazor.boot.json
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.StaticWebAssets.xml
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\StaticWebAssets.build.json
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\scopedcss\bundle\BlazorICORateCalculator.styles.css
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\scopedcss\projectbundle\BlazorICORateCalculator.bundle.scp.css
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.csproj.CopyComplete
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\refint\BlazorICORateCalculator.dll
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.pdb
-D:\Documents\Visual Studio Projects\BlazorICORateCalculator\obj\Release\net6.0\ref\BlazorICORateCalculator.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.csproj.AssemblyReference.cache
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.AssemblyInfoInputs.cache
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.AssemblyInfo.cs
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.pdb
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.6.0.13.kgbm0bbosw.js
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\MudBlazor.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.pdb.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\MudBlazor.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.6.0.13.kgbm0bbosw.js.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\BlazorICORateCalculator.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\firebase.json
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.staticwebassets.runtime.json
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\BlazorICORateCalculator.pdb
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.JSInterop.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\MudBlazor.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Pipelines.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.CSharp.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.VisualBasic.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.AppContext.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Buffers.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.Concurrent.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.Immutable.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.NonGeneric.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.Specialized.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Collections.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ComponentModel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Configuration.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Console.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Core.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Data.Common.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Data.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Debug.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Process.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Tools.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Drawing.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Drawing.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Dynamic.Runtime.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Formats.Asn1.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Globalization.Calendars.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Globalization.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Globalization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Compression.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.FileSystem.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.Pipes.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.IO.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.Expressions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.Parallel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.Queryable.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Linq.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Memory.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Http.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Http.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.HttpListener.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Mail.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.NameResolution.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.NetworkInformation.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Ping.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Quic.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Requests.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Security.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.ServicePoint.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.Sockets.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebClient.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebProxy.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.WebSockets.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Net.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Numerics.Vectors.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Numerics.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ObjectModel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Uri.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Xml.Linq.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Private.Xml.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Emit.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Metadata.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Reflection.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Resources.Reader.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Resources.ResourceManager.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Resources.Writer.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Handles.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.InteropServices.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Loader.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Numerics.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.Serialization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Runtime.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.AccessControl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Claims.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Principal.Windows.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.Principal.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.SecureString.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Security.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ServiceModel.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ServiceProcess.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encoding.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Text.RegularExpressions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Channels.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Overlapped.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Tasks.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Thread.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.ThreadPool.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.Timer.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Threading.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Transactions.Local.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Transactions.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.ValueTuple.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Web.HttpUtility.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Web.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Windows.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.Linq.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.Serialization.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XDocument.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XPath.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XmlDocument.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Xml.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\WindowsBase.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\mscorlib.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\netstandard.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\System.Private.CoreLib.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\dotnet.js
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\dotnet.timezones.blat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\dotnet.wasm
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\icudt.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\icudt_CJK.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\icudt_EFIGS.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\bin\Release\net6.0\icudt_no_CJK.dat
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\CvdoMi+O.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\7qgBJgm+.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\a5f59dGq.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\gsgojUpX.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\dArDCuva.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DIf9kotp.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cMoOln3m.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\NmdjPV7L.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2diAw66n.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\TPmUymGX.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bpjpp7L+.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\0EgZ0ydx.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kV0adWgE.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kQEBMd6s.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Ul+gxDcT.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\3A0qQ8HL.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\kuKYxbkW.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\+WF+fGHc.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\6upIK8dT.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\MO0BA0X3.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\wRdu8qpn.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\SYoss5M2.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\75MzAooy.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\5OcCCYt+.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\d+BTgYn3.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\9bssf7ty.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\XhBKi1w6.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Vp0yDnyD.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\lBSKX9Zb.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\S8na9H07.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\28drixvY.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\t0fiy4ZS.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cWZ70vYO.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bdo8C+e7.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\G6+rc9Mp.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\YJVJUAVu.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\L6LxLa0R.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\iLnUzytS.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Mw9aQjss.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\7d70FYE8.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\dnAfJkls.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\88F+aOCt.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Du0qI+Q0.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Wg4G4aBN.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\V9Gb6iZe.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\rq4Kjc+2.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8oST80X9.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\RxiFQIWg.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\5FOUKNew.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\9kxMoet9.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8XUJ0ukk.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\genonOJf.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2+NpYxTz.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2b3bZMS+.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\YynEK0AD.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\HWmaOJ5L.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Fq3qvu6s.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\98HWF88k.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Vh4H6hcX.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\QG5Tb9sq.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cwfywfb1.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\+7hWtQR6.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8+czpZvL.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\VPGu6J4o.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\g1y4j05+.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cxbA9mbd.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ZmW89Vhh.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Wfn9qBJo.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\KW1RcjwQ.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\IhZxEMoR.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\g8M047hA.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ab3AErAA.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\RmNMKq3b.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\UdoXJnsy.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\84Mi4pwY.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\HYkNvESW.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\NiDvY77s.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\XsF7SpOm.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Qj+howjH.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\pcHziz+P.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\dMfaOpmv.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\qsR5z75T.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\isAsQgZs.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\fXtmgPVj.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\hev2qPZw.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\dwmGYQSu.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\jAA+JGij.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\HTgbpKJm.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\87GcmS25.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8TQnqY9G.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\u1cvev+h.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\htlm2mj+.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\310krBmo.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\m6aZrbYA.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\qF8VVdby.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\6IkcmK40.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\CrBZiupa.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\GY2SVQTn.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\a8Kvtbiz.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\HMQBWmcv.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\4gA5y9gY.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\zDp3Erch.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\IBNYwjJd.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bJxg+phV.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\KLoWqs1S.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\P1bEpyj+.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\I9zLa9NN.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ySAwUU7z.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\3urZ2Tna.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Zb+QlSC6.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\mp6C1Fb8.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\KzVv++LF.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\o2FK0NDJ.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\im2+cBXH.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\nXLvRD+N.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\1g2Lx1nu.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\JYGDJIyC.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\46G9nynJ.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\yO+vTQ5x.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\uobkbQPH.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\vnmR3ruQ.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\s1p9LkP0.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\M43ozE9J.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\OjI6vX+D.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\hoJzf+hp.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\6kabZKr8.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\1k+HMkNf.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Fp3FYFG8.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\NlvWmmhR.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\HD7Zf7fy.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8IRis9aQ.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\io+ZuuQ7.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\gv2hpDmU.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\JAIGyeQz.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DLA+FWYT.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\jDTtxrKl.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\t1kLRzmY.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\bhQ8R2zd.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ws300ueP.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\e86kmitM.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\Sgg6vjM0.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\o2iEykyx.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\nM5qKuim.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\d4o1Z+TB.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\J39QP3s2.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\ap8esHkW.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\9PW0xuWY.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\lFkSoqdp.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DNFq5fP5.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\P9gASTAA.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\TF2k1zkL.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\4mEtJBub.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\th06fido.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\fprbogFA.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cIMgv9vV.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\NMgbXewJ.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\tgOta1+S.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\+ck3n8UN.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\D3jrnoei.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\wYJ+5Sl9.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\8tH4SMxj.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\0orEpabl.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2+nCG2nN.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\iGTRzTVo.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\1BQX+eWL.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\F2YlMZhM.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\BKrNuC2y.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\iml9+4gX.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\2uoiufgu.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\LLhFxcQT.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\VoxEzKdm.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\7ax1Irru.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\FX3dfWgn.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\eigzTzsA.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\dt6DImFv.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\JH7Am+60.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\5QwcQ41i.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\iABdJWgo.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\40DrsWhp.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\wRVwWR3U.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\tEzVoH8h.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\eXrNggrb.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\qZbJyG0z.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\mAAxoLIb.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\YWLX5fZk.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\6ipb7SNl.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\cfAKVIf4.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\9+p+qzD1.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\vP+VWoUt.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\DbfEmARi.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\MJKmhjw6.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\87mphiEY.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\SxeiVgNe.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\KfXSr+1u.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\F8cvwH70.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\oMH5ngyP.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\4d8ROlOU.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\pq3HR9Nl.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\1q2h0XPV.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\build-gz\AzUN21IT.gz
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\blazor.boot.json
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\staticwebassets\msbuild.BlazorICORateCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\staticwebassets\msbuild.build.BlazorICORateCalculator.props
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorICORateCalculator.props
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BlazorICORateCalculator.props
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\scopedcss\bundle\BlazorICORateCalculator.styles.css
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\scopedcss\projectbundle\BlazorICORateCalculator.bundle.scp.css
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.csproj.CopyComplete
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\refint\BlazorICORateCalculator.dll
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\BlazorICORateCalculator.pdb
+C:\Users\StinkySteak\Documents\dotNET\BlazorICORateCalculator\obj\Release\net6.0\ref\BlazorICORateCalculator.dll
